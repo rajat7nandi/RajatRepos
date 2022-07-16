@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'RajatWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_216860736F7C44829560C30B17540384 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D668560DBFF44366AC67BA6812C11657 }}
           package: .
